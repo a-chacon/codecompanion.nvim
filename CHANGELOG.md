@@ -1,5 +1,20 @@
 # Changelog
 
+## [17.6.0](https://github.com/olimorris/codecompanion.nvim/compare/v17.5.0...v17.6.0) (2025-07-02)
+
+
+### Features
+
+* **adapters:** add gemini-2.5-flash and set as new default ([#1686](https://github.com/olimorris/codecompanion.nvim/issues/1686)) ([fb98d6c](https://github.com/olimorris/codecompanion.nvim/commit/fb98d6c03f6039939e676f1257c76d8480a3da4f))
+* **chat:** handle buffer deletion of chat buffers ([#1745](https://github.com/olimorris/codecompanion.nvim/issues/1745)) ([dbc7957](https://github.com/olimorris/codecompanion.nvim/commit/dbc7957ee92ddce403405c5c6d91ba7dccb278c7))
+* **tools:** `web_search` tool can search specific sites ([#1741](https://github.com/olimorris/codecompanion.nvim/issues/1741)) ([6ef907f](https://github.com/olimorris/codecompanion.nvim/commit/6ef907fca6480dd11dc8f7a3048fec23f8a39b29))
+
+
+### Bug Fixes
+
+* **chat:** tools can now be dynamically added ([#1693](https://github.com/olimorris/codecompanion.nvim/issues/1693)) ([3a5f895](https://github.com/olimorris/codecompanion.nvim/commit/3a5f8958197b2e134e7d299673bff76c785dbc99))
+* **prompts:** agentic workflow in the config ([#1764](https://github.com/olimorris/codecompanion.nvim/issues/1764)) ([0b3831d](https://github.com/olimorris/codecompanion.nvim/commit/0b3831ddee88a389aa663fb05e35f2724f6df7da))
+
 ## [17.5.0](https://github.com/olimorris/codecompanion.nvim/compare/v17.4.0...v17.5.0) (2025-06-28)
 
 
